@@ -1,0 +1,45 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator = "@android:anim/accelerate_interpolator">
+
+    <translate
+        android:startOffset="0"
+        android:fromYDelta="100%"
+        android:toYDelta="-50%"
+        android:fromXDelta = "0%"
+        android:toXDelta="200%"
+        android:duration = "3000"
+        />
+    <translate
+        android:startOffset="3000"
+        android:fromYDelta="-50%"
+        android:toYDelta="100%"
+        android:fromXDelta = "0%"
+        android:toXDelta="-200%"
+        android:duration = "4000"
+        />
+    <translate
+        android:fromYDelta="0%"
+        android:toYDelta="-50%"
+        android:startOffset="7000"
+        android:fromXDelta = "-100%"
+        android:toXDelta="0%"
+        android:duration = "3000"
+        />
+    <translate
+        android:repeatCount="-1"
+        android:repeatMode="reverse"
+        android:fromYDelta="5%"
+        android:toYDelta="-5%"
+        android:startOffset="0"
+        android:duration="1500"
+        />
+    <translate
+        android:repeatCount="-1"
+        android:repeatMode="reverse"
+        android:fromXDelta="-1%"
+        android:toXDelta="1%"
+        android:startOffset="0"
+        android:duration="1000"
+        />
+
+</set>

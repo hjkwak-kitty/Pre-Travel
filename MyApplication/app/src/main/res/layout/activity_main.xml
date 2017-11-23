@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffffff"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="94.89px"
+            android:background="@color/mint"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/btnhome"
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:layout_gravity="left|bottom"
+                android:id="@+id/btnHome"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/btnmypage"
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:id="@+id/btnMypage"
+                android:layout_gravity="bottom" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/white"
+                android:background="@drawable/btnsearch"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:id="@+id/btnSearch"
+                android:layout_gravity="bottom" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/btnsetting"
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:id="@+id/btnInfo"
+                android:textSize="15dp"
+                android:layout_gravity="bottom" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
