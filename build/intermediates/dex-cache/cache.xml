@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.3.0_d5f7360155135247ba24c437748fe5e7467ac005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.14_4df07cad20fc75aa375641b8434ee4c937c9aeb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.3.0_fb7deba9e157ba664c069bad630d801ef036ba8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-ndk\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a9ec575d26e7ba478ae3733c699ec6eea6f95b54">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-ndk-1.1.5_630511a246a93add45b3b4c0c3e7ea503d8c0478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_2e97392a778ce10a2f44b961a2977cf5dc5433e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_c91b2c275ea9e4b9d84d9c224c057f19a1c37b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.15.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.15.0_afdcbd889a34c56b15c0697f94beb27b171e02d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_685eb76f1245c040f1a13fd04c61821f70ed3995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.6.5_564af1dbe10a446ae5a4a989be2da2b2a0c0ca98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.14_3a37f7bc93c4c90e207cf9c0bb1c7b7fb89709dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_0e0b1b3f3f7aba0ab50a76291c02db920a57a5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="06c28c5894faa48b7b50b6373522629bb385ef9b">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a07c9f16d3e4cdb3027221cfc0948cb1390933ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a0fddf04006198cd08a138df7e922ec5a19012cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.10_18066daf5908ca71d74b1f7f3a721ee54d5bc42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_f4185f4f3d664e3fec5060ccfec75bd134ba0582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\library-1.0.18_b1a2008231d51f8c72918a90038fc32a12e31c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0695ca425a03159ff926ee80cf87c3f60cf46bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_b26dae2859a7956e2b83831c59f43cc7ccec1eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.3.0_10a2fcff35c13eb8a0bd4d9856bf51450a7df178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.3.0_1904e0e434acc910ae127de6538fe2ca0a3bb853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.2.2_b278b0f9924f6c86d1f180f0190e3e91cfac6ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="829a788fa0b24ac57071e84987a8ebe582e8f38a">
+        <dex dex="D:\Documentation\data\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run_fb07302ded729de8f8c0925dee49b7b9f3b1dde6.jar" />
+    </item>
+
+</items>

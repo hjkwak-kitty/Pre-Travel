@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_addcontents"
+tools:context=".activity.Posting.PostListActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="@color/mint"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="372.80px"
+            android:layout_height="71.31px"
+            android:background="@drawable/logo_white2"
+            android:id="@+id/imageView4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/background"
+        android:alpha="0.8"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:weightSum="1"
+            android:id="@+id/linearLayout2"
+            android:layout_gravity="center_horizontal|top">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:textColor="@color/white"
+                android:id="@+id/textWhere" />
+
+            <EditText
+                android:id="@+id/inputWhere"
+                android:layout_width="245dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/input_round"
+                android:alpha="0.8"
+                android:hint="@string/hint_where"
+                android:textSize="15dp"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/input_where"
+                android:textColorHint="@color/input_where_hint" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="29dp"
+                android:text="@string/btn_chk"
+                android:textSize="15dp"
+                android:layout_gravity="bottom"
+                android:textColor="@color/white"
+                android:background="@drawable/btn_round"
+                android:id="@+id/btnChkWhere" />
+
+        </LinearLayout>
+
+        <ImageButton
+            android:layout_width="40px"
+            android:layout_height="90px"
+            android:background="@drawable/add"
+            android:visibility="invisible"
+            android:id="@+id/btnAdd"
+            android:layout_gravity="center_horizontal|bottom" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:gravity="center"
+        android:id="@+id/linearLayout3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true">
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/listviewContents"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/linearLayout3"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="2.38" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="올리기"
+            android:textColor="@color/white"
+            android:background="@color/mint"
+            android:visibility="invisible"
+            android:textSize="15dp"
+            android:id="@+id/btnUpload"
+            android:layout_alignBottom="@+id/listviewContents"
+            android:layout_alignEnd="@+id/linearLayout2" />
+    </LinearLayout>
+
+</LinearLayout>
