@@ -12,10 +12,8 @@
 
     <application
         android:name="com.hjkwak.pretravel.app.AppController"
-        android:allowBackup="true"
         android:icon="@drawable/wiget"
         android:label="@string/app_name"
-        android:supportsRtl="true"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
         <meta-data

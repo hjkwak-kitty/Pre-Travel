@@ -12,57 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8457ced-a7a8-45aa-b729-474fcefaa736" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Fragment/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/hyojin/myapplication/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/hjkwak/pretravel/ApplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Fragment/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Fragment/HomeFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Fragment/InfoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Fragment/InfoFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Fragment/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Fragment/MypageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Fragment/MypageFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Fragment/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Fragment/SearchFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/ListviewAdapter/CustomBookListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/ListviewAdapter/CustomBookListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/ListviewAdapter/CustomContentListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/ListviewAdapter/CustomContentListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/ListviewAdapter/CustomMovieListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/ListviewAdapter/CustomMovieListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/ListviewAdapter/CustomMylistAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/ListviewAdapter/CustomMylistAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/LoginActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/AddBookActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/AddBookActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/AddMovieActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/AddMovieActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/EditContentsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/EditContentsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/PostListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/PostListActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/SeePostActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/SeePostActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/SelectBookActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/SelectBookActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Posting/SelectMovieActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Posting/SelectMovieActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/RegisterActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/Userpage2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/Userpage2Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/UserpageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/UserpageActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/data/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/data/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/data/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/data/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/data/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/activity/setting/AlramSettingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/activity/setting/AlramSettingActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/app/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/app/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/app/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/app/AppController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/gcm/QuickstartPreferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/gcm/QuickstartPreferences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/gcm/RegisterationIntentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/gcm/RegisterationIntentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/gcm/myGcmListenerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/gcm/myGcmListenerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/gcm/myInstanceIDListnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/gcm/myInstanceIDListnerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/gcm/myNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/gcm/myNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/helper/LruBitmapCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/helper/LruBitmapCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/helper/LruBitmapCacheForHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/helper/LruBitmapCacheForHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/helper/SQLiteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/helper/SQLiteHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/hyojin/myapplication/helper/SessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hjkwak/pretravel/helper/SessionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_post.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_alram_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_alram_setting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_see_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_see_post.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/hyojin/myapplication/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/hjkwak/pretravel/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,6 +45,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="activity_register.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,24 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1950">
-              <caret line="130" column="4" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="4" />
-              <folding>
-                <element signature="e#2134#2154#0" expanded="true" />
-                <element signature="e#3058#3081#0" expanded="true" />
-                <element signature="e#4063#4082#0" expanded="true" />
-                <element signature="e#5689#5719#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="btn_round.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_round.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,24 +83,6 @@
       <file leaf-file-name="bglogin.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bglogin.jpg">
           <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding>
-                <element signature="e#775#793#0" expanded="true" />
-                <element signature="e#1006#1031#0" expanded="true" />
-                <element signature="e#2286#2304#0" expanded="true" />
-                <element signature="e#3070#3088#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
             <state />
           </provider>
         </entry>
@@ -194,6 +121,7 @@
     <findStrings>
       <find>compile</find>
       <find>NoActionBar</find>
+      <find>imageView2</find>
     </findStrings>
     <replaceStrings>
       <replace>implementation</replace>
@@ -2711,6 +2639,7 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
       </list>
     </option>
   </component>
@@ -2961,30 +2890,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1129" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.26461843" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.32951146" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32951146" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903865" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Logcat" order="7" />
       <window_info id="Captures" order="2" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23379861" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.26461843" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903865" />
       <window_info anchor="right" id="Gradle" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Fabric" order="3" />
-      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2992,7 +2923,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32903865" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -3262,13 +3192,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bglogin.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -3302,18 +3225,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider editor-type-id="android-designer2">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="130" column="4" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="4" />
-          <folding>
-            <element signature="e#2134#2154#0" expanded="true" />
-            <element signature="e#3058#3081#0" expanded="true" />
-            <element signature="e#4063#4082#0" expanded="true" />
-            <element signature="e#5689#5719#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="520">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
         </state>
       </provider>
     </entry>
