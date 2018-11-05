@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hyojin.myapplication"
-    android:versionCode="1"
-    android:versionName="1.0">
+    package="com.hjkwak.pretravel">
 
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -13,7 +11,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".app.AppController"
+        android:name="com.hjkwak.pretravel.app.AppController"
         android:allowBackup="true"
         android:icon="@drawable/wiget"
         android:label="@string/app_name"
@@ -30,22 +28,22 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.example.hyojin.myapplication" />
+                <category android:name="com.example.myapplication" />
             </intent-filter>
         </receiver>
 
         <service
-            android:name=".gcm.myGcmListenerService"
+            android:name="com.hjkwak.pretravel.gcm.myGcmListenerService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
             </intent-filter>
         </service>
         <service
-            android:name=".gcm.RegisterationIntentService"
+            android:name="com.hjkwak.pretravel.gcm.RegisterationIntentService"
             android:exported="false" />
         <service
-            android:name=".gcm.myInstanceIDListnerService"
+            android:name="com.hjkwak.pretravel.gcm.myInstanceIDListnerService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.android.gms.iid.InstanceID" />
@@ -53,7 +51,7 @@
         </service>
 
         <activity
-            android:name=".activity.LoginActivity"
+            android:name="com.hjkwak.pretravel.activity.LoginActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:windowSoftInputMode="adjustPan">
@@ -70,22 +68,22 @@
             <!--android:label="@string/app_name"-->
             <!--android:theme="@android:style/Theme.Translucent.NoTitleBar" />-->
         <activity
-            android:name=".activity.RegisterActivity"
+            android:name="com.hjkwak.pretravel.activity.RegisterActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:windowSoftInputMode="adjustPan" />
-        <activity android:name=".activity.Posting.PostListActivity" />
-        <activity android:name=".activity.Fragment.MainActivity" />
-        <activity android:name=".activity.Posting.SelectMovieActivity" />
-        <activity android:name=".activity.Posting.AddMovieActivity" />
-        <activity android:name=".activity.Posting.SelectBookActivity" />
-        <activity android:name=".activity.Posting.EditContentsActivity" />
-        <activity android:name=".activity.Posting.AddBookActivity" />
-        <activity android:name=".activity.Posting.SeePostActivity" />
-        <activity android:name=".activity.UserpageActivity" />
-        <activity android:name=".activity.Userpage2Activity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.PostListActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Fragment.MainActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.SelectMovieActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.AddMovieActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.SelectBookActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.EditContentsActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.AddBookActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Posting.SeePostActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.UserpageActivity" />
+        <activity android:name="com.hjkwak.pretravel.activity.Userpage2Activity" />
 
-        <activity android:name=".activity.setting.AlramSettingActivity"></activity>
+        <activity android:name="com.hjkwak.pretravel.activity.setting.AlramSettingActivity"></activity>
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="636d720c9ce4f9b53ec989b3173f7782f94c5cb1" />

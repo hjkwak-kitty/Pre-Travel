@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_setting"
     android:orientation="vertical"
-    tools:context="com.example.hyojin.myapplication.gcm.SettingFragment">
+    tools:context="com.hjkwak.pretravel.gcm.SettingFragment">
 
     <!--TODO: Update blank fragment layout-->
     <TextView
