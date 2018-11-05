@@ -6,89 +6,93 @@ package com.hjkwak.pretravel.app;
 
 
 public class AppConfig {
+    
+    private static String ServerAPI = "http://d6ed12ce.ngrok.io/android_login_api/";
+
+
     // Server user login url
-    public static String URL_LOGIN = "http://115.71.232.67/android_login_api/login.php";
+    public static String URL_LOGIN = ServerAPI + "login.php";
 
     // Server user register url
-    public static String URL_REGISTER = "http://115.71.232.67/android_login_api/register.php";
+    public static String URL_REGISTER = ServerAPI + "register.php";
 
     // Server emil authentication check url
-    public static String URL_EMAIL= "http://115.71.232.67/android_login_api/sendmail.php";
+    public static String URL_EMAIL= ServerAPI + "sendmail.php";
 
     // Server emil authentication check url
-    public static String URL_AUTHENTICATION= "http://115.71.232.67/android_login_api/athentication.php";
+    public static String URL_AUTHENTICATION= ServerAPI + "athentication.php";
 
     //국가, 도시 찾기
-    public static String URL_SETWHEREITIS="http://115.71.232.67/android_login_api/setWhere.php";
+    public static String URL_SETWHEREITIS=ServerAPI + "setWhere.php";
 
     //영화찾기
-    public static String URL_SEARCHMOVIE="http://115.71.232.67/android_login_api/movieInfo.php";
+    public static String URL_SEARCHMOVIE=ServerAPI + "movieInfo.php";
 
     //영화찾기
-    public static String URL_SEARCHBOOK="http://115.71.232.67/android_login_api/bookInfo.php";
+    public static String URL_SEARCHBOOK=ServerAPI + "bookInfo.php";
 
     //국가, 도시 입력
-    public static String URL_ADDWHERE="http://115.71.232.67/android_login_api/addwhere.php";
+    public static String URL_ADDWHERE=ServerAPI + "addwhere.php";
 
     //포스팅 업로드
-    public static String URL_POSTUPLOAD= "http://115.71.232.67/android_login_api/PostUpload.php";
+    public static String URL_POSTUPLOAD= ServerAPI + "PostUpload.php";
 
     //추천리스트 검색
-    public static String URL_RECOMMENDLIST = "http://115.71.232.67/android_login_api/recommendList.php";
+    public static String URL_RECOMMENDLIST = ServerAPI + "recommendList.php";
 
     // Server user login url
-    public static String URL_SEARCH = "http://115.71.232.67/android_login_api/search.php";
+    public static String URL_SEARCH = ServerAPI + "search.php";
 
     // 추천유저리스트 받아오기
-    public static String URL_GETRECOMMENDUSERLIST = "http://115.71.232.67/android_login_api/getRecommendUserList.php";
+    public static String URL_GETRECOMMENDUSERLIST = ServerAPI + "getRecommendUserList.php";
 
     //추천유저리스트 업데이트
-    public static String URL_PUSHRECOMMEND = "http://115.71.232.67/android_login_api/pushRecommend.php";
+    public static String URL_PUSHRECOMMEND = ServerAPI + "pushRecommend.php";
 
     // 이름 중복확인
-    public static String URL_CHECKONLY = "http://115.71.232.67/android_login_api/checkOnlyName.php";
+    public static String URL_CHECKONLY = ServerAPI + "checkOnlyName.php";
 
     // 로그인 시, 초기화
-    public static String URL_SYNC = "http://115.71.232.67/android_login_api/sync.php";
+    public static String URL_SYNC = ServerAPI + "sync.php";
 
     //추천수 가장 높은 컨텐츠 데이터 받아오기
-    public static String URL_GETHIGH = "http://115.71.232.67/android_login_api/getHighRecommend.php";
+    public static String URL_GETHIGH = ServerAPI + "getHighRecommend.php";
 
     //스크랩리스트 가져오기
-    public static String URL_GETSCRAPLIST = "http://115.71.232.67/android_login_api/getScrapList.php";
+    public static String URL_GETSCRAPLIST = ServerAPI + "getScrapList.php";
 
     //스크랩버튼 클릭
-    public static String URL_PUSHSCRAP= "http://115.71.232.67/android_login_api/pushScrap.php";
+    public static String URL_PUSHSCRAP= ServerAPI + "pushScrap.php";
 
     //컨텐츠 지우기
-    public static String URL_DELETECONTENT= "http://115.71.232.67/android_login_api/deleteContents.php";
+    public static String URL_DELETECONTENT= ServerAPI + "deleteContents.php";
 
     //스크랩한 컨텐츠 정보 가져오기
-    public static String URL_GETSCRAPCONTENT= "http://115.71.232.67/android_login_api/getContent.php";
+    public static String URL_GETSCRAPCONTENT= ServerAPI + "getContent.php";
 
     //Favorite 리스트 가져오기
-    public static String URL_GETFAVORITELIST = "http://115.71.232.67/android_login_api/getFavoriteList.php";
+    public static String URL_GETFAVORITELIST = ServerAPI + "getFavoriteList.php";
 
     //Favorite 버튼 클릭
-    public static String URL_PUSHFAVORITE= "http://115.71.232.67/android_login_api/pushFavorite.php";
+    public static String URL_PUSHFAVORITE= ServerAPI + "pushFavorite.php";
 
     //유저별 글찾기
-    public static String URL_BYUSER= "http://115.71.232.67/android_login_api/byUser.php";
+    public static String URL_BYUSER= ServerAPI + "byUser.php";
 
     //팔로잉목록가져오기
-    public static String URL_GETFOLLOWINGLIST = "http://115.71.232.67/android_login_api/getFollowList.php";
+    public static String URL_GETFOLLOWINGLIST = ServerAPI + "getFollowList.php";
 
     //팔로우버튼클릭
-    public static String URL_PUSHFOLLOW = "http://115.71.232.67/android_login_api/pushFollow.php";
+    public static String URL_PUSHFOLLOW = ServerAPI + "pushFollow.php";
 
     // 알람 및 토큰 세팅
-    public static String URL_TOKEN = "http://115.71.232.67/android_login_api/alramSetting.php";
+    public static String URL_TOKEN = ServerAPI + "alramSetting.php";
 
     // 알람 보내기
-    public static String URL_SENDALRAM = "http://115.71.232.67/android_login_api/gcm_push_test.php";
+    public static String URL_SENDALRAM = ServerAPI + "gcm_push_test.php";
 
     // 탈퇴하기
-    public static String URL_REMOVEUSER = "http://115.71.232.67/android_login_api/removeUser.php";
+    public static String URL_REMOVEUSER = ServerAPI + "removeUser.php";
 
 
 }
